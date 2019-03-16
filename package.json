@@ -1,10 +1,11 @@
 {
   "name": "spritedivider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Divide sprite sheet into seperated images.",
   "main": "SpriteDivider.js",
   "scripts": {
   },
+  "bin": "./bin/SpriteDivider.js",
   "author": "WorrySprite",
   "license": "MIT",
   "dependencies": {
@@ -13,5 +14,6 @@
     "@types/sharp": "^0.21.3",
     "cli": "^1.0.1",
     "sharp": "^0.21.3"
-  }
+  },
+  "keywords": ["sprite", "sprite divide", "sprite cut", "sprite seperate"]
 }
