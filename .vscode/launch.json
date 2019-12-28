@@ -9,8 +9,13 @@
 			"request": "launch",
 			"preLaunchTask": "build",
 			"name": "Launch Program",
-			"program": "${workspaceFolder}/bin/index.js",
-			"args": ["comp.json"],
+			"program": "${workspaceFolder}/bin/SpriteDivider.js",
+			//"args": ["-h"],
+			"args": [
+				"-f",
+				"egret",
+				"D:\\test.json"
+			],
 			"cwd": "${workspaceFolder}"
 		}
 	]
