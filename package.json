@@ -1,6 +1,6 @@
 {
   "name": "spritedivider",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Divide sprite sheet into seperated images.",
   "main": "SpriteDivider.js",
   "scripts": {},
@@ -9,12 +9,16 @@
   },
   "author": "WorrySprite",
   "license": "MIT",
+  "repository": {
+      "url": "https://github.com/worrysprite/SpriteDivider"
+  },
+  "homepage": "https://github.com/worrysprite/SpriteDivider",
   "dependencies": {
     "@types/cli": "^0.11.19",
-    "@types/node": "^11.11.3",
-    "@types/sharp": "^0.21.3",
+    "@types/node": "^14.6.2",
+    "@types/sharp": "^0.25.1",
     "cli": "^1.0.1",
-    "sharp": "^0.21.3"
+    "sharp": "^0.26.0"
   },
   "keywords": [
     "sprite",
