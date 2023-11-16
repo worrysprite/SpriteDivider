@@ -18,7 +18,7 @@
     "@types/node": "^14.6.2",
     "@types/sharp": "^0.25.1",
     "cli": "^1.0.1",
-    "sharp": "^0.30.5"
+    "sharp": "^0.32.6"
   },
   "keywords": [
     "sprite",
